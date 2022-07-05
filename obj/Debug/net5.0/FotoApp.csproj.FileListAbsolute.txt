@@ -1,0 +1,16 @@
+E:\Escritorio\FotoApp\bin\Debug\net5.0\FotoApp.exe
+E:\Escritorio\FotoApp\bin\Debug\net5.0\FotoApp.deps.json
+E:\Escritorio\FotoApp\bin\Debug\net5.0\FotoApp.runtimeconfig.json
+E:\Escritorio\FotoApp\bin\Debug\net5.0\FotoApp.runtimeconfig.dev.json
+E:\Escritorio\FotoApp\bin\Debug\net5.0\FotoApp.dll
+E:\Escritorio\FotoApp\bin\Debug\net5.0\ref\FotoApp.dll
+E:\Escritorio\FotoApp\bin\Debug\net5.0\FotoApp.pdb
+E:\Escritorio\FotoApp\obj\Debug\net5.0\FotoApp.csproj.AssemblyReference.cache
+E:\Escritorio\FotoApp\obj\Debug\net5.0\FotoApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\FotoApp\obj\Debug\net5.0\FotoApp.AssemblyInfoInputs.cache
+E:\Escritorio\FotoApp\obj\Debug\net5.0\FotoApp.AssemblyInfo.cs
+E:\Escritorio\FotoApp\obj\Debug\net5.0\FotoApp.csproj.CoreCompileInputs.cache
+E:\Escritorio\FotoApp\obj\Debug\net5.0\FotoApp.dll
+E:\Escritorio\FotoApp\obj\Debug\net5.0\ref\FotoApp.dll
+E:\Escritorio\FotoApp\obj\Debug\net5.0\FotoApp.pdb
+E:\Escritorio\FotoApp\obj\Debug\net5.0\FotoApp.genruntimeconfig.cache
